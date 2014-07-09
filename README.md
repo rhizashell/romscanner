@@ -18,6 +18,6 @@ Vulnerable Routers
 Credits
 =======
 
-Written by Rhiza, 
-requires Python 2.7
-, Doesn't require any third party modules
+ - Written by Rhiza, 
+ - requires Python 2.7
+ - Doesn't require any third party modules
