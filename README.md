@@ -19,7 +19,7 @@ How to use RomScanner
 =====================
 
 Simply download romscanner.py
-locate the file in your terminal
+locate the file with your terminal
 type: python romscanner.py
 
 You will be prompted to enter an IP address of the target.
