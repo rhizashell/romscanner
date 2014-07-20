@@ -15,6 +15,18 @@ Vulnerable Routers
 - Huawei EchoLife HG520s
 - TP Link W8901G
 
+How to use RomScanner
+=====================
+
+Simply download romscanner.py
+locate the file in your terminal
+type: python romscanner.py
+
+You will be prompted to enter an IP address of the target.
+
+If the exploit is successfull it will download the rom-0 file.
+You can upload the rom-0 file and extract the admin password at http://198.61.167.113/zynos/
+
 Credits
 =======
 
