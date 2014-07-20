@@ -5,7 +5,7 @@ Description
 ===========
 
 RomScanner scans your router to see if it's vulnerable to configuration disclosure.
-If successful, hackers could compromise your router.
+<br>If successful, hackers could compromise your router.
 
 Vulnerable Routers
 ===================
