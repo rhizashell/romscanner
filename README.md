@@ -21,7 +21,7 @@ How to use RomScanner
 Simply download romscanner.py
 <br>locate the file with your terminal
 <br>type: python romscanner.py
-<br>You will be prompted to enter an IP address of the target.
+<br>You will be prompted to enter the IP address of your target.
 <br>If the exploit is successfull it will download the rom-0 file.
 <br>You can upload the rom-0 file and extract the admin password at http://198.61.167.113/zynos/
 
